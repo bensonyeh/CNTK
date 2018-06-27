@@ -4,13 +4,12 @@ channels:
 # For imageio:
 - conda-forge
 dependencies:
-- enum34=1.1.6=py27_0
 - h5py=2.6.0=np112py27_2
 - imageio=2.2.0=py27_0
 - jupyter=1.0.0=py27_3
 - matplotlib=2.0.0=np112py27_0
-- mock=2.0.0=py27_0
 - numpy=1.12.0=py27_0
+- opencv=3.1.0=np112py27_1
 - pandas=0.19.2=np112py27_1
 - pandas-datareader=0.2.1=py27_0
 - pandoc=1.15.2=0
@@ -26,6 +25,7 @@ dependencies:
 - six=1.10.0=py27_0
 - wheel=0.29.0=py27_0
 - pip:
+  - easydict==1.6.0
   - gym==0.5.2
   - keras==2.0.6
   - pydot-ng==1.0.0

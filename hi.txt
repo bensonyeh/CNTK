@@ -1,0 +1,24 @@
+total 446K
+drwxr-xr-x 1 thiagofc 1049089    0 Jun 14 18:36 bindings/
+-rw-r--r-- 1 thiagofc 1049089 1.4K Jun 26 17:09 bla.txt
+-rw-r--r-- 1 thiagofc 1049089  279 Jun 14 18:36 CMakeLists.txt
+-rw-r--r-- 1 thiagofc 1049089 3.6K Jun 14 18:36 CNTK.Common.props
+-rw-r--r-- 1 thiagofc 1049089  12K Jun 14 18:36 CNTK.Cpp.props
+-rw-r--r-- 1 thiagofc 1049089 220K Jun 14 18:36 CNTK.sln
+-rwxr-xr-x 1 thiagofc 1049089  38K Jun 21 07:40 configure*
+-rw-r--r-- 1 thiagofc 1049089  216 Jun 14 18:36 CONTRIBUTING.md
+-rw-r--r-- 1 thiagofc 1049089  11K Jun 14 18:36 CppCntk.vssettings
+drwxr-xr-x 1 thiagofc 1049089    0 Jun 14 18:36 Documentation/
+drwxr-xr-x 1 thiagofc 1049089    0 Jun 14 18:36 Examples/
+drwxr-xr-x 1 thiagofc 1049089    0 Jun 14 18:36 external/
+-rw-r--r-- 1 thiagofc 1049089 1.2K Jun 14 18:36 LICENSE.md
+-rw-r--r-- 1 thiagofc 1049089  69K Jun 14 18:36 Makefile
+drwxr-xr-x 1 thiagofc 1049089    0 Jun 14 18:36 Manual/
+drwxr-xr-x 1 thiagofc 1049089    0 Jun 14 18:36 PretrainedModels/
+-rw-r--r-- 1 thiagofc 1049089  18K Jun 14 18:36 README.md
+drwxr-xr-x 1 thiagofc 1049089    0 Jun 14 18:36 Scripts/
+drwxr-xr-x 1 thiagofc 1049089    0 Jun 14 18:36 Source/
+drwxr-xr-x 1 thiagofc 1049089    0 Jun 14 18:36 Tests/
+-rw-r--r-- 1 thiagofc 1049089  22K Jun 14 18:36 ThirdPartyNotices.md
+drwxr-xr-x 1 thiagofc 1049089    0 Jun 14 18:36 Tools/
+drwxr-xr-x 1 thiagofc 1049089    0 Jun 14 18:36 Tutorials/
