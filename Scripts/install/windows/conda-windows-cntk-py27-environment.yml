@@ -4,35 +4,36 @@ channels:
 # For imageio:
 - conda-forge
 dependencies:
-- h5py=2.6.0=np112py27_2
-- imageio=2.2.0=py27_0
-- jupyter=1.0.0=py27_3
-- matplotlib=2.0.0=np112py27_0
-- numpy=1.12.0=py27_0
-- opencv=3.1.0=np112py27_1
-- pandas=0.19.2=np112py27_1
-- pandas-datareader=0.2.1=py27_0
-- pandoc=1.15.2=0
-- pillow=3.4.2=py27_0
-- pip=9.0.1=py27_1
-- python=2.7.15=he216670_0
-- pyyaml=3.12=py27_0
-- scikit-image=0.12.3=np112py27_1
-- scikit-learn=0.18.1=np112py27_1
-- scipy=1.0.1=py27ha6b90e7_0
-- seaborn=0.7.1=py27_0
-- setuptools=27.2.0=py27_0
-- six=1.10.0=py27_0
-- wheel=0.29.0=py27_0
+- h5py
+- imageio
+- jupyter
+- matplotlib
+- numpy
+- opencv
+- pandas
+- pandas-datareader
+- pandoc
+- pillow
+- pip
+- python
+- pyyaml
+- scikit-image
+- scikit-learn
+- scipy
+- seaborn
+- setuptools
+- six
+- wheel
+- cython
 - pip:
-  - easydict==1.6.0
-  - gym==0.5.2
-  - keras==2.0.6
-  - pydot-ng==1.0.0
-  - pygame==1.9.3
-  - pytest==3.6.2
-  - sphinx-rtd-theme==0.2.4
-  - sphinx==1.5.4
-  - nbsphinx==0.2.14
-  - twine==1.8.1
-  - protobuf==3.2.0
+  - easydict
+  - gym
+  - keras
+  - pydot-ng
+  - pygame
+  - pytest
+  - sphinx-rtd-theme
+  - sphinx
+  - nbsphinx
+  - twine
+  - protobuf
