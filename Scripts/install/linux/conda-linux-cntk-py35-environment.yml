@@ -5,7 +5,6 @@ channels:
 - conda-forge
 dependencies:
 - h5py
-- imageio
 - jupyter
 - matplotlib
 - numpy
@@ -14,10 +13,8 @@ dependencies:
 - pandas-datareader
 - pandoc
 - pip
-- python
+- python=3.5.5
 - pyyaml
-- scikit-image
-- scikit-learn
 - scipy
 - seaborn
 - setuptools
@@ -30,10 +27,13 @@ dependencies:
   - keras
   - pydot-ng
   - pygame
-  - pytest
+  - pytest=3.6.2
   - sphinx-rtd-theme
   - sphinx
   - nbsphinx
   - twine
   - protobuf
   - pillow
+  - imageio
+  - scikit-image
+  - scikit-learn
