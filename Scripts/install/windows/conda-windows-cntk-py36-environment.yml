@@ -13,7 +13,6 @@ dependencies:
 - pandas
 - pandas-datareader
 - pandoc
-- pillow
 - pip
 - python
 - pyyaml
@@ -37,3 +36,4 @@ dependencies:
   - nbsphinx
   - twine
   - protobuf
+  - pillow
