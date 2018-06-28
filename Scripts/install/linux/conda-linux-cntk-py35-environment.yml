@@ -24,6 +24,7 @@ dependencies:
 - setuptools
 - six
 - wheel
+- cython
 - pip:
   - easydict
   - gym[atari]
