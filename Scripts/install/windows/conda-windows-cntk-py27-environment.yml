@@ -27,7 +27,7 @@ dependencies:
   - keras
   - pydot-ng
   - pygame
-  - pytest==3.6.2
+  - pytest==3.5.1
   - sphinx-rtd-theme
   - sphinx
   - nbsphinx
