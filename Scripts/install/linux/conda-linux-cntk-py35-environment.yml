@@ -13,7 +13,6 @@ dependencies:
 - pandas
 - pandas-datareader
 - pandoc
-- pillow
 - pip
 - python
 - pyyaml
@@ -24,7 +23,6 @@ dependencies:
 - setuptools
 - six
 - wheel
-- cython
 - pip:
   - easydict
   - gym[atari]
@@ -37,3 +35,4 @@ dependencies:
   - nbsphinx
   - twine
   - protobuf
+  - pillow
