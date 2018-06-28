@@ -4,12 +4,11 @@ channels:
 # For imageio:
 - conda-forge
 dependencies:
-- enum34
 - h5py
 - jupyter
 - matplotlib
-- mock
 - numpy
+- opencv
 - pandas
 - pandas-datareader
 - pandoc
@@ -23,6 +22,7 @@ dependencies:
 - wheel
 - cython
 - pip:
+  - easydict
   - gym[atari]
   - keras
   - pydot-ng
