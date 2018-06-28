@@ -14,7 +14,7 @@ dependencies:
 - pandas-datareader
 - pandoc
 - pip
-- python=2.7.15
+- python==2.7.15
 - pyyaml
 - scipy
 - seaborn
@@ -27,7 +27,7 @@ dependencies:
   - keras
   - pydot-ng
   - pygame
-  - pytest=3.6.2
+  - pytest==3.6.2
   - sphinx-rtd-theme
   - sphinx
   - nbsphinx
