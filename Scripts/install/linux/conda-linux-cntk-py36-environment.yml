@@ -10,6 +10,7 @@ dependencies:
 - numpy
 - opencv
 - pandas
+# Downgrade to 0.5.0 due to https://github.com/pydata/pandas-datareader/issues/495
 - pandas-datareader==0.5.0
 - pandoc
 - pip
